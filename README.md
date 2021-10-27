@@ -1,2 +1,2 @@
-# Pok-mon
+# Pokémon
 My favourite pocket monsters image
